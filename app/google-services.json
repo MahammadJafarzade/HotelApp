@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774953250564",
+    "project_id": "hotelapp-78f5c",
+    "storage_bucket": "hotelapp-78f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774953250564:android:b4a5b16cb06a64aa33ea51",
+        "android_client_info": {
+          "package_name": "com.mahammadjafarzade.tripwayy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokZuE1nM-LSF--6nccYXhPb6Yu0_Jj1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
